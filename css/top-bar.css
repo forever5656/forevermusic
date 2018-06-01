@@ -1,0 +1,25 @@
+#top-bar{
+
+	background-color: white;
+	width: 1535px;
+	height:60px;
+}
+#top-bar-pic1{
+	width: 50px;
+	position: absolute;
+	top: 10px;
+	left: 0px;
+}
+
+#top-bar-text1{
+	position: absolute;
+	left: 50px;
+	font-family:'LiDeBiao-Xing31260ab182a1d13c';
+	font-size: 40px;
+}
+#login{
+
+    position: absolute;
+	top: 15px;
+	left: 1300px;
+}
